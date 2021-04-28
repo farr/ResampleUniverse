@@ -1,0 +1,12 @@
+name: ResampleUniverse
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - jupyterlab
+  - astropy
+  - matplotlib
+  - h5py
+  - tqdm
+prefix: /Users/wfarr/miniconda3/envs/ResampleUniverse
